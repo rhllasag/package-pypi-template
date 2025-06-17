@@ -1,0 +1,27 @@
+[project]
+name = "rhllasag"
+version = "1.0.1"
+authors = [
+  { name="Raúl Rosero", email="raul.hllasag@gmail.com" },
+]
+description = "A Python package template."
+readme = "README.md"
+
+requires-python = ">=3.8"
+
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.optional-dependencies]
+dev-requirements = ["dev-requirements.txt"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+
+
+
+
+
