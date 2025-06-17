@@ -1,6 +1,6 @@
 import pytest
 from datetime import datetime
-from my_package.__main__ import date
+from rhllasag_package.__main__ import date
 
 
 @pytest.fixture
