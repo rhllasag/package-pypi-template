@@ -1,6 +1,6 @@
 [project]
-name = "rhllasag"
-version = "1.0.1"
+name = "rhllasag_package"
+version = "0.0.1"
 authors = [
   { name="Raúl Rosero", email="raul.hllasag@gmail.com" },
 ]
